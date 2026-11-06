@@ -1,4 +1,4 @@
-🚀 **[Live dashboard](https://arjinasim-oprisk-watch-bfi-app-9wvuwj.streamlit.app/)**
+🚀 **[Live dashboard](https://arjinasim-credit-portfolio-governance-engine-app-fwokl7.streamlit.app/)**
 # 🏦 Credit Portfolio Governance Engine
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)

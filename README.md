@@ -1,4 +1,4 @@
-🚀 **[Live dashboard](https://arjinasim-credit-portfolio-governance-engine-app-fwokl7.streamlit.app/)**
+🚀 **[Live dashboard](https://arjinasim-credit-portfolio-governance-engine-app-fwokl7.streamlit.app/)**   📄   **[Project report (PDF)](Credit Portfolio Governance Engine Report.pdf)**
 # 🏦 Credit Portfolio Governance Engine
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
